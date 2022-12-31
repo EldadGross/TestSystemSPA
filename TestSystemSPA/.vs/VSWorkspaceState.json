@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\manageQuestions",
+    "\\src\\components\\manageQuestions\\addQuestion",
+    "\\src\\components\\manageTests",
+    "\\src\\components\\manageTests\\editTest"
+  ],
+  "PreviewInSolutionExplorer": false
+}
